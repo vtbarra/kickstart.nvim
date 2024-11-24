@@ -31,6 +31,7 @@ require('lazy').setup({
   require 'kickstart.plugins.mini',
   require 'kickstart.plugins.treesitter',
   require 'kickstart.plugins.undotree',
+  require 'kickstart.plugins.tmux-navigator',
   -- LSP Plugins
   require 'kickstart.plugins.lazydev',
   require 'kickstart.plugins.lspconfig',
