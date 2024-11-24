@@ -22,6 +22,7 @@ require('lazy').setup({
   require 'kickstart.plugins.autopairs',
   require 'kickstart.plugins.neo-tree',
   require 'kickstart.plugins.gitsigns',
+  require 'kickstart.plugins.lazygit',
   require 'kickstart.plugins.dashboard',
   require 'kickstart.plugins.sleuth',
   require 'kickstart.plugins.which-key',
